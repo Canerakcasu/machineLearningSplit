@@ -23,11 +23,6 @@ pip install scikit-learn matplotlib numpy
 📜 Usage
 Run the script:
 
-bash
-Kopiuj
-Edytuj
-
-
 
 📈 Results
 The script will produce a graph like this:
